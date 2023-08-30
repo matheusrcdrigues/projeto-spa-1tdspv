@@ -1,7 +1,4 @@
 export default function Error(){
-
- 
-
     return(
 
         <main>
